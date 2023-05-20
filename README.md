@@ -8,6 +8,8 @@ follow the commands
 cd rabbit_game_js
 
 pip install django
+
+
 python manage.py runserver
 
 
